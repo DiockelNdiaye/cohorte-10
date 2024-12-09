@@ -116,5 +116,5 @@ img {
   align-items: center;
   gap: 4px;
 }
-@media screen {
+@media (min-width: 768px) {
 }
